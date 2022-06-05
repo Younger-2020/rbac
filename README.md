@@ -29,7 +29,7 @@
 
 - 添加资源
 
-  ![](./projectPic/resources-table-add.PNG)
+  ![](./projectPic/resources-table-add.png)
 
 - 编辑资源
 
